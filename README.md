@@ -1,1 +1,2 @@
 # exercism
+Exercises for training
