@@ -1,2 +1,2 @@
 # exercism
-Exercises for training
+Exercises for training on exercism.com
